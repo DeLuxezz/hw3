@@ -1,11 +1,5 @@
-html{
-    font: 16px/1.375 Arial;
-}
-
 body{
-    width: 1360px;
-    margin: 0 auto;
-    padding: 0 15px;
+    font: 16px/1.375 Arial;
 }
 
 ul,h1,h2,p{
@@ -23,6 +17,12 @@ h1{
 
 h2{
     font-size: 20px;
+}
+
+.box{
+    width: 1360px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 .img_logo{
